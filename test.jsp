@@ -5,6 +5,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<% $test="테스트"; %>
 <%=$test%>
 </body>
 </html>
